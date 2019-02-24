@@ -562,6 +562,9 @@ margin-left: 20px;
   color: #000;
   text-align: center;
   word-wrap: break-word;
+	  Pading-bottom: 10px;
+	Background:#ff0000
+
 }
 @media screen and (max-width: 767px) {
   .post-wrapper .post-title,
@@ -573,7 +576,16 @@ margin-left: 20px;
 .post-wrapper .post-title a:hover {
   text-decoration: none;
 }
-.post-wrapper .post-date,.post-wrapper .post-methods {
+
+.post-wrapper .post-date {
+  margin-bottom: 30px;  
+text-align: center;
+  color: #999;
+  font-size: 14px;
+}
+
+
+.post-wrapper .post-methods {
   margin-bottom: 30px;  
 text-align: center;
   color: #999;
