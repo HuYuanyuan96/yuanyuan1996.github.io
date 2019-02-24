@@ -24,9 +24,10 @@ layout: default
         <span>U</span>
       </h1>
     </div>
-                <div class="Resume">
+                <div class="resume">
+                 <a class="resume-link" href="/" target="_blank"><img src="/images/Resume.svg" alt="" width="100"/></a>
                  
- 
+   </div>
         
        </div>
       <div id="particles-js"></div>
