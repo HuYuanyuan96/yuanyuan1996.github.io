@@ -577,6 +577,18 @@ margin-left: 20px;
   margin-bottom: 60px;
   font-size: 14px;
 }
+
+.post-wrapper .post-methods {
+  text-align: center;
+  font-size: 14px;
+}
+
+.post-wrapper .post-tools {
+  text-align: center;
+  font-size: 14px;
+}
+
+
 @media screen and (max-width: 767px) {
   .post-wrapper .post-date {
     margin-bottom: 40px;
