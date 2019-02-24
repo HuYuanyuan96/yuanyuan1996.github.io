@@ -552,6 +552,8 @@ margin-left: 20px;
     padding: 0;
   }
 }
+
+
 .post-wrapper .post-title,
 .post-wrapper .post-title a {
   font-size: 30px;
@@ -571,18 +573,13 @@ margin-left: 20px;
 .post-wrapper .post-title a:hover {
   text-decoration: none;
 }
-.post-wrapper .post-date {
+.post-wrapper .post-date,.post-wrapper .post-methods {
   margin-bottom: 30px;  
 text-align: center;
   color: #999;
-  margin-bottom: 30px;
   font-size: 14px;
 }
 
-.post-wrapper .post-methods {
-  text-align: center;
-  font-size: 14px;
-	  margin-bottom: 10px;
 
 }
 
@@ -590,6 +587,8 @@ text-align: center;
   text-align: center;
   font-size: 14px;
 	  margin-bottom: 60px;
+	  color: #999;
+
 
 
 }
